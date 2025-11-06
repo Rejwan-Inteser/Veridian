@@ -63,7 +63,7 @@ This allows you to:
 ## Installation
 
 ### For Linux
-1.  Download the `Veridian-x86_64.AppImage` file from the latest [release](https://github.com/Rejwan-Inteser/Veridian/releases).
+1.  Download the [Veridian-x86_64.AppImage](https://github.com/Rejwan-Inteser/Veridian/releases/download/1.0.0/Veridian-x86_64.AppImage) file from the latest [release](https://github.com/Rejwan-Inteser/Veridian/releases).
 2.  Make it executable:
     ```bash
     chmod +x Veridian-x86_64.AppImage
@@ -74,7 +74,7 @@ This allows you to:
     ```
 
 ### For Windows
-1.  Download the `Veridian.exe` file from the latest [release](https://github.com/Rejwan-Inteser/Veridian/releases).
+1.  Download the [Veridian.exe](https://github.com/Rejwan-Inteser/Veridian/releases/download/1.0.0/Veridian.exe) file from the latest [release](https://github.com/Rejwan-Inteser/Veridian/releases).
 2.  Run the executable directly by double-clicking it or from the command line.
 
 ---
